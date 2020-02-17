@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Test book updated",
+    "author": "Developer test",
+    "genere": "Test",
+    "id": 1000
+  },
+  {
+    "name": "Test book",
+    "author": "Developer test",
+    "genere": "Test",
+    "id": 1004
+  },
+  {
+    "name": "Test book",
+    "author": "Developer test",
+    "genere": "Test",
+    "id": 1005
+  }
+]
